@@ -1,0 +1,14 @@
+vaadin-grid::part(cell) {
+  background-color: cyan;
+}
+
+vaadin-grid::part(header-cell) {
+  background-color: yellow;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+vaadin-grid-sorter::part(content) {
+  font-weight: bolder;
+  font-size: larger;
+}
